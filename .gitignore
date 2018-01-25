@@ -1,0 +1,6 @@
+#This is Git ignore file.
+
+*.aux
+*.log
+*.pdf
+*.synctex.gz
