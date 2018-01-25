@@ -1,6 +1,9 @@
 #This is Git ignore file.
 
 *.aux
+*.fdb_latexmk
+*.fls
 *.log
 *.pdf
 *.synctex.gz
+*.synctex.gz(busy)
